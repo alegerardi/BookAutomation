@@ -153,6 +153,8 @@ while ans != True:
     char = input("Procced with creation? Y for yes, N for n\n")
     if char == 'Y': 
         ans = True
+    else:
+        exit(0)
 
 
 with open('chapters.txt', 'r', encoding = 'utf-8') as chaptersFile:                                                                #ASSEMBLING FINAL BOOK
