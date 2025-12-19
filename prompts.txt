@@ -1,0 +1,104 @@
+
+FIRST PROMPT:
+------------
+
+Based on the provided table of contents, generate multiple SEO-optimized book title and subtitle suggestions suitable for Amazon KDP.
+
+Maintain exactly the same language used in the table of contents (do not translate or mix languages).
+
+The suggestions must:
+
+Be optimized for Amazon search (high-intent keywords)
+
+Be attractive, clear, and marketable
+
+Avoid explicitly labeling anything as “title” or “subtitle”
+
+Match the tone, topic, and promise of the book
+
+Output only the suggestions, cleanly formatted.
+
+
+
+SECOND PROMPT:
+--------------
+
+Create a professional book cover design using the selected title and subtitle.
+
+Requirements:
+
+Language must remain exactly the same as used in the table of contents
+
+The cover must include:
+
+Book title
+
+Book subtitle
+
+Publisher name:   YOUR_PUBLISHER_NAME
+
+Style: sophisticated, modern, and high-quality
+
+Visuals: realistic elements strongly related to the book’s topic
+
+The design should be suitable for Amazon KDP (clean, readable at thumbnail size, premium look)
+
+Avoid cartoonish or overly abstract styles. Aim for a credible nonfiction / professional aesthetic.
+
+
+
+
+
+
+THIRD PROMPT:
+------------
+
+Write an Amazon KDP book description that is fully SEO-optimized and aligned with the book’s table of contents.
+
+Constraints:
+
+Maintain the same language used in the table of contents
+
+Maximum length: 4000 characters
+
+Use engaging formatting and cool emojis where appropriate
+
+DO NOT use invisible or special hidden characters
+
+Content requirements:
+
+Clearly explain what the reader will learn and why the book is valuable
+
+Reflect the structure and depth shown in the table of contents
+
+In the second paragraph, explicitly mention that the book was created with the help of artificial intelligence, explaining:
+
+Access to large datasets
+
+Reduction of human bias
+
+Improved clarity, consistency, and breadth of information
+
+Keep the tone authoritative, modern, and reader-focused
+
+End with a compelling reason to buy.
+
+
+
+
+FOURTH PROMPT:
+-------------
+
+Generate 14 highly SEO-optimized Amazon KDP keyword phrases relevant to this book’s topic and table of contents.
+
+Rules:
+
+Maintain the same language used in the table of contents for keywords
+
+Keywords should target buyer intent and discoverability
+
+Avoid repetition and overly generic terms
+
+After the keywords, suggest the most appropriate Amazon book categories, written in English, that maximize visibility and ranking potential.
+
+
