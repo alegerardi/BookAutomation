@@ -7,8 +7,6 @@ For beginning the process of assemblying the book, the user needs to:
 1. First aprove the 10 chapters proposed
 2. Check if subchapters txt-file contain all 40 rows
 
-If the user decides that changes are necessary, press Ctrl+C in your terminal for interrupting the code
-
 The generated .docx in which you can automatically generate the Table of Contents of a book. From this point, the workflow is intentionally semi-automated:
 
 1. Open the generated .docx file.
